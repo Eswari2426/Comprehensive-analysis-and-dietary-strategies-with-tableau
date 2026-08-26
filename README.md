@@ -30,4 +30,4 @@ This project analyzes college students' food choices and dietary habits using Ta
 
 
 ## GitHub Repository
-https://github.com/sravanichennuboina0/Comprehensive-analysis-and-dietary-strategies-with-tableau/tree/main
+https://github.com/Eswari2426/Comprehensive-analysis-and-dietary-strategies-with-tableau
